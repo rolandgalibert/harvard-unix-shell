@@ -1,0 +1,23 @@
+Author:         Roland L. Galibert
+Subject:        CSCI E-28 Assignment 5 (smsh)
+Date:           April 18, 2015
+
+A) ASSIGNMENT CONTENTS
+smsh.c                  Modified smsh.c from smsh4.2
+smsh.h                  smsh.h from smsh4.2, unchanged
+builtin.c               Modified builtin.c from smsh4.2
+controlflow.c           Modified controlflow.c from smsh4.2
+execute2.c              execute2.c from smsh4.2, unchanged
+flexstr.c , flexstr.h   flexstr library files from smsh4.2, unchanged
+process2.c              process2.c from smsh4.2, unchanged
+splitline.c             Modified splitline.c from smsh4.2
+splitline.h             splitline.h from smsh4.2, unchanged
+varlib.c, varlib.h      varlib files from smsh4.2, unchanged
+
+Outline		Assignment design document
+README		This file.
+Makefile
+
+MAKE INSTRUCTIONS
+make / make all - creates smsh executable.
+make clean - removes smsh executable and all object files.

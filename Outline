@@ -1,0 +1,27 @@
+Subject:	CSCI E-28 Assignment 5 Design Document (smsh)
+Author:		Roland L. Galibert
+Date:		April 18, 2015
+
+PURPOSE OF THE PROGRAM
+The purpose of this program is to implement the smsh Unix shell according to the specifications in the assignment. This program is a modification/extension of the smsh4.2 shell discussed in lecture.
+
+Usage:  smsh [-f FILE]
+
+As specified in the assignment, smsh can be called by itself (interactive mode) or to process an existing shell script.
+
+MAIN FUNCTIONAL UNITS AND INTERACTION
+
+A. New built-ins
+cd - 
+http://stackoverflow.com/questions/18686114/cd-command-not-working-with-execvp
+
+
+B. Support for shell script files
+
+C. Support for shell variables
+
+D. New control structures (else, nested ifs)
+
+
+OBJECTS
+

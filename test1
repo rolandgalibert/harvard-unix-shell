@@ -1,0 +1,10 @@
+LOOKFOR=root
+ETC=etc
+WORD=wd
+if grep $LOOKFOR /$ETC/pass$WORD
+then
+        echo this system has a root login
+        echo that is a good thing
+else
+        echo something is wrong here
+        echo there is no login for root
